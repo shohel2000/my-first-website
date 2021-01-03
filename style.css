@@ -1,0 +1,55 @@
+.aboutFull{
+    margin: 20px 50px;
+}
+
+.about h1{
+    text-align: center;
+    text-transform: uppercase;
+    font-style: italic;
+}
+.about h1 .oo,
+.about h1 .ee{
+    color: red;
+}
+.about_lf{
+    width: 50%;
+    float: left;
+}
+.about_lf p{
+    font-size: 20px;
+    font-family: serif;
+}
+.about_lf p .myName{
+    font-size: 24px;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-style: italic;
+    color: gray;
+}
+.about_rt{
+    width: 50%;
+    float: left;
+}
+.about_rt img{
+    width: 50%;
+    height: 300px;
+}
+.dream1{
+    float: left;
+    width: 30%;
+    border: 2px solid red;
+    margin: 10px 10px;
+    border-radius: 10px;
+    background-color: salmon;
+    padding: 7px;
+}
+.Food{
+    background-color: sandybrown;
+}
+.userinput{
+    display: inline-block;
+}
+.us_input{
+    float: left;
+    margin: 20px 40px;
+}
